@@ -11,7 +11,7 @@ st.markdown("""
     .main { background-color: #f5f7f8; }
     h1 { color: #1E3A8A; font-family: 'Helvetica Neue', sans-serif; }
     </style>
-    """, unsafe_style_with_html=True)
+    """, unsafe_allow_html=True)
 
 st.title("🧠 AI Smart Predictor Web App")
 st.write("ඔබගේ Unique Streamlit ඇප් එක සාර්ථකව වැඩ කරයි! 🎉")
